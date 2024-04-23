@@ -6,4 +6,4 @@ v okviru tega projekta se bomo ukvarjali s preprosto analizo besed :3.
 - me
 - myself
 - I
-closes #1
+Closes #1
